@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JokeLib</string>
+    <string name="joke_header">Funny Joke:</string>
+</resources>
